@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="/">
+    <file>image/del.png</file>
+    <file>image/download.png</file>
+    <file>image/folder.png</file>
+    <file>image/Icon_config.png</file>
+    <file>image/Icon_delete.png</file>
+    <file>image/Icon_look.png</file>
+    <file>image/Icon_trash.png</file>
+    <file>image/left.png</file>
+    <file>image/Logo.png</file>
+    <file>image/print.png</file>
+    <file>image/right.png</file>
+    <file>image/synchronization.png</file>
+    <file>image/synchronization1.png</file>
+    <file>image/synchronization2.png</file>
+    <file>image/text.png</file>
+    <file>image/add.png</file>
+    <file>image/asterisk.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Project SYSTEM "Project-4.6.dtd">
+<!-- eric4 project file for project PaperManager -->
+<!-- Saved: 2014-06-11, 23:41:22 -->
+<!-- Copyright (C) 2014 haofly, haoflynet@gmail.com -->
+<Project version="4.6">
+  <Language></Language>
+  <ProgLanguage mixed="0">Python</ProgLanguage>
+  <ProjectType>Qt4</ProjectType>
+  <Description>我的数据库应用</Description>
+  <Version>0.1</Version>
+  <Author>haofly</Author>
+  <Email>haoflynet@gmail.com</Email>
+  <Sources>
+    <Source>__init__.py</Source>
+    <Source>start.py</Source>
+    <Source>ConnectSQL.py</Source>
+    <Source>UI/Ui_Login.py</Source>
+    <Source>UI/Ui_Main.py</Source>
+    <Source>UI/Ui_Signin.py</Source>
+    <Source>test.py</Source>
+    <Source>UI/Ui_test.py</Source>
+    <Source>UI/__init__.py</Source>
+    <Source>UI的备份/__init__.py</Source>
+    <Source>UI的备份/注册.py</Source>
+    <Source>UI的备份/登录.py</Source>
+    <Source>Check.py</Source>
+    <Source>ftp.py</Source>
+    <Source>UI/Ui_testMain.py</Source>
+    <Source>UI的备份/主界面.py</Source>
+    <Source>UI/Ui_config.py</Source>
+    <Source>Ui_testMain.py</Source>
+    <Source>pic_rc.py</Source>
+    <Source>admin.py</Source>
+  </Sources>
+  <Forms>
+    <Form>UI/Login.ui</Form>
+    <Form>UI/Main.ui</Form>
+    <Form>UI/Signin.ui</Form>
+    <Form>UI/test.ui</Form>
+    <Form>UI/testMain.ui</Form>
+    <Form>UI/config.ui</Form>
+    <Form>testMain.ui</Form>
+  </Forms>
+  <Translations>
+  </Translations>
+  <Resources>
+    <Resource>pic.qrc</Resource>
+  </Resources>
+  <Interfaces>
+  </Interfaces>
+  <Others>
+  </Others>
+  <Vcs>
+    <VcsType>None</VcsType>
+  </Vcs>
+  <FiletypeAssociations>
+    <FiletypeAssociation pattern="*.ui" type="FORMS" />
+    <FiletypeAssociation pattern="*.idl" type="INTERFACES" />
+    <FiletypeAssociation pattern="*.qm" type="TRANSLATIONS" />
+    <FiletypeAssociation pattern="*.ptl" type="SOURCES" />
+    <FiletypeAssociation pattern="*.pyw" type="SOURCES" />
+    <FiletypeAssociation pattern="*.ui.h" type="FORMS" />
+    <FiletypeAssociation pattern="*.ts" type="TRANSLATIONS" />
+    <FiletypeAssociation pattern="*.py" type="SOURCES" />
+    <FiletypeAssociation pattern="*.qrc" type="RESOURCES" />
+  </FiletypeAssociations>
+</Project>
